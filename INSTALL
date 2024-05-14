@@ -1,0 +1,6 @@
+sudo apt install python3-pip
+sudo apt install python3-virtualenv
+virtualenv .venv
+source .venv/bin/activate
+
+http://127.0.0.1:4000/?x=0.1,0.9,0.055558,0.366660,0.0055555
